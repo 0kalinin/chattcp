@@ -1,2 +1,2 @@
 # chattcp
-simple tcp client-server chat
+Test brunch for chattcp
