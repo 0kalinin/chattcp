@@ -1,0 +1,7 @@
+C:\Users\fiute\source\repos\client\server\bin\Debug\server.exe.config
+C:\Users\fiute\source\repos\client\server\bin\Debug\server.exe
+C:\Users\fiute\source\repos\client\server\bin\Debug\server.pdb
+C:\Users\fiute\source\repos\client\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\fiute\source\repos\client\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\fiute\source\repos\client\server\obj\Debug\server.exe
+C:\Users\fiute\source\repos\client\server\obj\Debug\server.pdb

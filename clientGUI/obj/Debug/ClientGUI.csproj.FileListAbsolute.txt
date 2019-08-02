@@ -1,0 +1,10 @@
+C:\Users\fiute\source\repos\client\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\fiute\source\repos\client\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\fiute\source\repos\client\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.csprojAssemblyReference.cache
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.cache
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\fiute\source\repos\client\ClientGUI\obj\Debug\ClientGUI.pdb
